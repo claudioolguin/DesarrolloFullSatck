@@ -1,0 +1,14 @@
+
+.titulo{
+    text-align: center;
+ }
+/*---------------------------------*/
+body{
+    background-color: blue;
+}
+/*---------------------------------*/
+.descripcionPagina{
+    color:black;
+    margin: 30px;
+}
+/*---------------------------------*/
